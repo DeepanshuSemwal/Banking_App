@@ -1,8 +1,14 @@
 # Basic-Banking-App
 
-### This Repo showcases my project, that I've created for my Internship task at The Sparks Foundation.
+![Screenshot 2023-04-17 232651](https://user-images.githubusercontent.com/92510571/232571238-e07f110f-3fec-45a1-b4bf-345be5eaf675.png)
 
-![PicsArt_04-06-12 44 05](https://user-images.githubusercontent.com/68140538/113625942-2e7eb180-967f-11eb-90dd-ae86c112ecfa.jpg)
-![PicsArt_04-06-12 47 29](https://user-images.githubusercontent.com/68140538/113625947-30487500-967f-11eb-8e29-3bbd6f0dc8aa.jpg)
-![PicsArt_04-06-02 19 41](https://user-images.githubusercontent.com/68140538/113625951-30e10b80-967f-11eb-82ca-4d9b26273c89.jpg)
-![PicsArt_04-06-02 21 35](https://user-images.githubusercontent.com/68140538/113625953-3179a200-967f-11eb-8183-03a7bba3999d.jpg)
+![Screenshot 2023-04-17 224908](https://user-images.githubusercontent.com/92510571/232571265-85ec1afb-0284-47d2-a062-cce4811bc6e2.png)
+
+![Screenshot 2023-04-17 225007](https://user-images.githubusercontent.com/92510571/232571378-0d51857a-124d-49b0-8d83-323bfa8cd9c0.png)
+
+![Screenshot 2023-04-17 225021](https://user-images.githubusercontent.com/92510571/232571672-c75d257a-473a-40c0-b6e9-3300c423062e.png)
+
+
+![Screenshot 2023-04-17 224948](https://user-images.githubusercontent.com/92510571/232571398-548d69bd-726c-4894-80fa-c521948ade00.png)
+
+![Screenshot 2023-04-17 224940](https://user-images.githubusercontent.com/92510571/232571423-7697c354-0bdf-415c-a17b-a9ffb58207d5.png)
